@@ -1,0 +1,7 @@
+clean
+write
+shower
+play
+game
+gaming
+football
